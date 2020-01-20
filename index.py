@@ -1,5 +1,6 @@
 from appliances.kitchen.utility import Dishwasher
 from appliances.kitchen.utility import Refrigerator
+from appliances.kitchen import CoffeeMaker
 from appliances.laundry import Dryer
 from appliances.laundry import Washer
 
